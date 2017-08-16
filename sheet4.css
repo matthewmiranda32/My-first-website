@@ -1,0 +1,33 @@
+body {
+   background-image: url("starfield.jpg");
+}
+h1 {
+	color: white;
+}
+h2 {
+	color: white;
+}
+p {
+	color: white;
+	font-family: "Palatino Linotype", "Book Antiqua" Palatino, serif;
+}
+.floatStop {
+	clear:both;
+	margin-top:10px;
+	margin-bottom:10px;
+}
+.floatRight {
+	float: right;
+	margin:10px 0 40px 20px;
+	vertical-align: text-top;
+	text-align: right;
+}
+.floatLeft {
+	float:left;
+	margin: 0 20px 5px 0;
+	vertical-align:text-top;
+	text-align:left;
+}
+.fontColor {
+	color: #FFFFFF;
+}

@@ -1,0 +1,20 @@
+body {
+   background-image: url("lava-texture-wallpaper-1.jpg");
+}
+h1 {
+	color: #CD853F;
+}
+p {
+	color: #FFFF00;
+}
+table, th, td {
+   border: 2px solid black;
+   background-color: white;
+   text-align: center;
+}
+.boldClass {
+	font-weight: bold;
+}
+.fontColor {
+	color: #FFFFFF;
+}
